@@ -23,5 +23,5 @@
   <a href="https://www.linkedin.com/in/gabriel-carlos-538b52234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-
- ![Profile View Counter](https://komarev.com/ghpvc/?username=gabscarlos) 
+![Profile views](https://gpvc.arturio.dev/gabscarlos)
+![Profile View Counter](https://komarev.com/ghpvc/?username=gabscarlos) 
