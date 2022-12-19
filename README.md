@@ -24,4 +24,4 @@
 </div>
 
 
-|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Profile View Counter](https://komarev.com/ghpvc/?username=gabscarlos) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=gabscarlos) 
