@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/gabscarlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabscarlos"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabscarlos&layout=compact&langs_count=7&theme=vue"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabscarlos)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
 <div style="display: inline_block"><br>
