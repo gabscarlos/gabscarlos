@@ -1,4 +1,4 @@
-## Opa! Eu sou o Gabriel Carlos, estudante de Análise e Desenvolvimento de Sistemas.
+## Opa! Bora Codar.
 <div align="center">
   <a href="https://github.com/gabscarlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabscarlos"/>
