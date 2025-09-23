@@ -1,5 +1,7 @@
-<img src="https://github.com/gabscarlos/portfolio/blob/main/.gitassets/1.png" align=center/>
-## Opa! Bora Codar 🤘
+<div align=center>
+<img src="https://github.com/gabscarlos/portfolio/blob/main/.gitassets/1.png"/>
+</div>
+# Opa! Bora Codar 🤘
 <div align="center">
   <a href="https://github.com/gabscarlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabscarlos&layout=compact"/>
