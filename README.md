@@ -1,4 +1,4 @@
-![](https://github.com/gabscarlos/portfolio/blob/main/.gitassets/1.png)
+<img src="https://github.com/gabscarlos/portfolio/blob/main/.gitassets/1.png" align=center/>
 ## Opa! Bora Codar 🤘
 <div align="center">
   <a href="https://github.com/gabscarlos">
