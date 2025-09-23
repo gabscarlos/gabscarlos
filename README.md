@@ -1,3 +1,4 @@
+![](https://github.com/gabscarlos/portfolio/blob/main/.gitassets/1.png)
 ## Opa! Bora Codar 🤘
 <div align="center">
   <a href="https://github.com/gabscarlos">
